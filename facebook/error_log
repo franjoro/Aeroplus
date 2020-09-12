@@ -1,0 +1,2 @@
+[01-Oct-2019 02:57:25 UTC] PHP Warning:  require_once(/home3/iveaco/public_html/pruebas/facebook/facebook/src/Facebook/autoload.php): failed to open stream: No such file or directory in /home3/iveaco/public_html/pruebas/facebook/login.php on line 7
+[01-Oct-2019 02:57:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/iveaco/public_html/pruebas/facebook/facebook/src/Facebook/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/iveaco/public_html/pruebas/facebook/login.php on line 7

@@ -1,0 +1,1 @@
+[23-Jul-2019 00:21:07 America/El_Salvador] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/iveaco/public_html/pruebas/c_panel/fun/inventario/tabla.php on line 20
